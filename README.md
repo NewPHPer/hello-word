@@ -80,3 +80,12 @@ Suspendisse id sem consectetuer libero luctus adipiscing.
 
 *   Bird
 *   Magic
+
+*   Bird
+
+*   Magic
+
+这是一个普通段落：
+
+    这是一个代码区块。
+    echo 123;
